@@ -1,0 +1,7 @@
+[project]
+name = "davinci-resolve-mcp-custom"
+version = "1.0.0"
+description = "Custom Python scripts for DaVinci Resolve MCP"
+requires-python = ">=3.10"
+readme = "README.md"
+license = {text = "MIT"}

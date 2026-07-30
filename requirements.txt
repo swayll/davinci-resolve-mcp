@@ -13,3 +13,6 @@ pyaaf2>=1.7.0
 # httpx2) and is incompatible. install.py runs `pip install mcp[cli]` UNPINNED
 # first, so it grabs 2.0.0; this constraint (installed second) pins it back.
 mcp[cli]>=1.29,<2
+git+https://github.com/aystream/gigaam-mlx.git
+fastapi
+uvicorn
